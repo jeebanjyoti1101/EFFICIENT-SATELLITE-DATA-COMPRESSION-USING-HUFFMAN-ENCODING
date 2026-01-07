@@ -1,6 +1,8 @@
-# 🛰️ Huffman Satellite Data Compression
+# 🛰️ Efficient Satellite Data Compression Using Huffman Encoding
 
 A Python implementation of Huffman coding algorithm for compressing satellite telemetry data to optimize bandwidth usage during transmission.
+
+![Project Poster](poster.png)
 
 ## 🎯 Overview
 
@@ -139,9 +141,16 @@ Contributions are welcome! Feel free to:
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
+## 👤 Authors
 
-**Jeeban Jyoti**
+**Jeeban Jyoti Pradhan** - RA2311031010122
+**A Amit Kumar Patro** - RA2311031010119  
+**Harshvardhan Sharma** - RA2311031010131
+
+**Instructor**: Dr. A Prabhu Chakkaravarthy  
+**Course**: 21CSC204J - Design and Analysis of Algorithms  
+**Institution**: SRM Institute of Science & Technology
+
 - GitHub: [@jeebanjyoti1101](https://github.com/jeebanjyoti1101)
 
 ## 🌟 Acknowledgments
