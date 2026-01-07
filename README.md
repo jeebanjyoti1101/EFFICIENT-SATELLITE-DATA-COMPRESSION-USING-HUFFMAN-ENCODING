@@ -1,0 +1,2 @@
+# EFFICIENT-SATELLITE-DATA-COMPRESSION-USING-HUFFMAN-ENCODING
+This project implements efficient satellite data compression using Huffman Encoding to reduce data size, transmission bandwidth, and time complexity. By applying lossless compression and optimal prefix codes, it improves storage efficiency, speeds up data transmission and decoding, and enhances overall performance in satellite communication systems
